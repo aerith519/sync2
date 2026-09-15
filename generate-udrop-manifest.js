@@ -4,7 +4,7 @@
 
 const KEY1 = process.env.UDROP_KEY1;
 const KEY2 = process.env.UDROP_KEY2;
-const API = "https://www.udrop.com/api/v2";
+const API = "https://www.megaup.net/api/v2";
 const MAX_DEPTH = 12; // safety limit against extremely deep/circular nesting
 
 function normalizePath(pathStr) {
