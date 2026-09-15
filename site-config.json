@@ -1,0 +1,4 @@
+{
+  "siteName": "My Files",
+  "hideFolders": ["Documents", "Images", "Music", "Videos"]
+}
