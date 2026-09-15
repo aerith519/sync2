@@ -1,0 +1,65 @@
+{
+  "name": "My Files",
+  "type": "folder",
+  "children": [
+    {
+      "name": "cloud1",
+      "type": "folder",
+      "children": [
+        {
+          "name": "Python",
+          "type": "folder",
+          "children": [
+            {
+              "name": "cli",
+              "type": "folder",
+              "children": [
+                {
+                  "name": "exp 2.py",
+                  "type": "file",
+                  "url": "https://www.udrop.com/PGSH",
+                  "size": 363
+                },
+                {
+                  "name": "exp 3.py",
+                  "type": "file",
+                  "url": "https://www.udrop.com/PGSI",
+                  "size": 156
+                },
+                {
+                  "name": "exp 4.py",
+                  "type": "file",
+                  "url": "https://www.udrop.com/PGSJ",
+                  "size": 1159
+                },
+                {
+                  "name": "exp 5.py",
+                  "type": "file",
+                  "url": "https://www.udrop.com/PGSK",
+                  "size": 410
+                },
+                {
+                  "name": "exp 6.py",
+                  "type": "file",
+                  "url": "https://www.udrop.com/PGSL",
+                  "size": 127
+                },
+                {
+                  "name": "exp1.py",
+                  "type": "file",
+                  "url": "https://www.udrop.com/PGSM",
+                  "size": 244
+                }
+              ]
+            },
+            {
+              "name": "ref",
+              "type": "folder",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
